@@ -1,6 +1,9 @@
-# dl_project
+# TED talk generation
 
-## TODOs
-0. (setup environment to use conda, pytorch etc. with this project)
-1. try and test https://github.com/AustinCStone/TextGAN
-2. preprocessing data
+## Data preparation
+Extract transcripts from transcripts.csv using perepare_data.py
+
+## Models
+- Bi-LSTM.ipynb
+- GRU_char_model.ipynb
+- GPT_2_Model.ipynb
