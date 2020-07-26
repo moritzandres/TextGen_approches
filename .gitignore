@@ -1,4 +1,6 @@
 */.idea/
 *.pkl
 /*.dat/
+run/*
+logs/*
 glove*.txt
